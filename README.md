@@ -18,28 +18,28 @@ Answer the following questions for at least one idea:
 
 - Give a brief summary of your idea.
 
-> Your answer here...
+> Reverse recipe app; the user will be able to input the items he/she has in their fridge currently or that they want  to cook with for their meal. Once he or she selects all the items; 
 
 - Who is this product for? Describe the type of person or community this application is for.
 
-> Your answer here...
+> This product will be designed for everyone, it helps people with health issues, people trying to save money, people trying to save time and not have to go do groceries shopping. 
 
 - What problem does it solve?
 
-> Your answer here...
+> We will be helping people by allowing them to use the food available in their fridge without having to go outside and buy more food, this will help people consume more of this food they tend to throw out as well as save them time and money by removing the need to go to the grocery store.
 
 - Why is this problem important?
 
-> Your answer here...
+> Our biggest goal is to save people Time and Money; each year, 119 billion pounds of food is wasted in the United States; we want to impact this by creating an app that will allow people to find food receipes using the items that they have in their kitchen at hand instead of buying more food and wasting their Time and Money. Additionally we want users to be able to find great receipe's with their desired ingredients as well. 
 
 - How will this application solve the problem?
 
-> Your answer here...
+> This application will solve the problem by allowing users to research recipes by ingredients. Thus allowing them to find new recipes they want to try based on want, and they can input ingridents they do not want to waste as well.
 
 - What are customers currently doing to solve the problem?
 
-> Your answer here...
+> customers are currently throwing away food that they do not use, thus generating excessive waste. Customers are also limiting themselves in both the foods and the meals that they choose to make and eat because we are not chefs.
 
 - How does it compare to the alternatives?
 
-> Your answer here...
+> Our app compares well with alternatives; alot of our competitors are showing completed receipies vs a randomized selection based of the ingredients the user chooses. 
